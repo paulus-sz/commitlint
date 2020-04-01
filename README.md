@@ -1,0 +1,2 @@
+# commitlint
+commitlint test
